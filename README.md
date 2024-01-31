@@ -1,4 +1,4 @@
-# pulse-control-rectifier
+# Pulse-Controlled-Rectifier
 
 <h3>Objective</h3>   
 simulation and analysis of AC to DC using pulse controlled rectifier
